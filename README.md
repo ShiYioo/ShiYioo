@@ -16,7 +16,7 @@
 </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="http://reblog,shiyio.uk">Shi Yi</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://blog.shiyio.uk">Shi Yi</a>!</h1>
 
 <h3 align="center">Welcome to my GitHub profile </h3>
 
