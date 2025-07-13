@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="http://reblog,shiyio.uk">Blog</a></strong>
+  <strong><a href="http://blog,shiyio.uk">Blog</a></strong>
 </p>
 
 <p align="center">
