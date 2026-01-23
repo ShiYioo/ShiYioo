@@ -30,11 +30,11 @@
 </p>
 
 <p align="center">
-<a ><img src="https://github-readme-stats.vercel.app/api?username=ShiYioo&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
+<a ><img src="https://github-readme-stats.vercel.app/api?username=shiYioo&hide_border=true&show_icons=true" alt="ShiYi's github stats"></a>
 </p>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiYioo&layout=compact">    
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiYioo&layout=compact">    
 </p>
 
 
