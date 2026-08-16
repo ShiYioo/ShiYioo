@@ -1,41 +1,19 @@
-<p align="center">
-<a href="http://reblog.shinyio.uk">
-  <img 
-    src="https://avatars.githubusercontent.com/u/141152739?v=4" 
-    width="180" 
-    style="
-      display: block;
-      border-radius: 50%;
-      border: 3px solid #12b7f5;
-      box-shadow: 0 0 10px rgba(18, 183, 245, 0.4);
-      transition: transform 0.2s ease;
-    "
-    onmouseover="this.style.transform='scale(1.05)'"
-    onmouseout="this.style.transform='scale(1)'"
-  />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:12b7f5,100:ff9ecd&text=Shi%20Yi&animation=fadeIn&fontColor=ffffff&fontSize=48" width="100%" alt="banner" />
+
+<a href="https://blog.shiyio.uk">
+  <img src="https://readme-typing-svg.demolab.com?font=masque&size=26&pause=1200&color=FF9ECD&center=true&vCenter=true&width=560&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%F0%9F%8C%B8+I'm+Shi+Yi;Java+%2F+Kotlin+%7C+Code+%26+Coffee" alt="typing" />
 </a>
-</p>
 
-<h1 align="center">Hi, I'm <a href="https://blog.shiyio.uk">Shi Yi</a>!</h1>
+<img width="130" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/141152739?v=4&w=160&h=160&fit=cover&mask=circle" alt="avatar" />
 
-<h3 align="center">Welcome to my GitHub profile </h3>
+**探索新技术的二次元程序员** ⚡
 
-<p align="center">
-- ⚡like : some new technology about java kotlin
-- 📫 How to reach me: 3401187804@qq.com
-</p>
+📮 [3401187804@qq.com](mailto:3401187804@qq.com) &nbsp;·&nbsp; 📖 [Blog](https://blog.shiyio.uk)
 
-<p align="center">
-  <strong><a href="https://blog.shiyio.uk">Blog</a></strong>
-</p>
+<a href="https://github.com/ShiYioo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShiYioo&theme=doodle" alt="profile summary" />
+</a>
 
-<p align="center">
-<a href="https://github.com/ShiYioo"><img src="https://github-readme-stats.vercel.app/api?username=ShiYioo&hide_border=true&show_icons=true" alt="ShiYi's github stats"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/ShiYioo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiYioo&layout=compact&hide_border=true" alt="ShiYi's top languages"></a>
-</p>
-
-
-
+</div>
