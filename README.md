@@ -8,7 +8,7 @@
 
 <img width="130" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/141152739?v=4&w=160&h=160&fit=cover&mask=circle" alt="avatar" />
 
-**探索新技术的二次元程序员** ⚡
+**探索新技术的小菜鸡** ⚡
 
 📮 [3401187804@qq.com](mailto:3401187804@qq.com) &nbsp;·&nbsp; 📖 [Blog](https://blog.shiyio.uk)
 
