@@ -30,13 +30,12 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/ShiYioo"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShiYioo&hide_border=true&show_icons=true" alt="ShiYi's github stats"></a>
+<a href="https://github.com/ShiYioo"><img src="https://github-readme-stats.vercel.app/api?username=ShiYioo&hide_border=true&show_icons=true" alt="ShiYi's github stats"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/ShiYioo"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShiYioo&layout=compact&hide_border=true" alt="ShiYi's top languages"></a>
+<a href="https://github.com/ShiYioo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiYioo&layout=compact&hide_border=true" alt="ShiYi's top languages"></a>
 </p>
-
 
 
 
